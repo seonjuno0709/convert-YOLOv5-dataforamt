@@ -14,3 +14,5 @@ YOLOv5 데이터 포맷은 class_id, x_center, y_center, width, height 순서로
 ---
 
 **code는 python으로 작성하였음**
+
+![캡처](https://user-images.githubusercontent.com/76555222/210407695-1b89c4d7-c8cb-45ba-84b7-8e7f50e21a83.PNG)
