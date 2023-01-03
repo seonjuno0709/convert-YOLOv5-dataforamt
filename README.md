@@ -5,6 +5,8 @@
 
 annotation 된 정보는 bounding-box left, top, right, bottom, class_id를 나타냄
 
+(Data set은 직접 ETRI에 신청해 받기)
+
 **YOLOv5 Data Format :**
 
 YOLOv5 데이터 포맷은 class_id, x_center, y_center, width, height 순서로 나타냄
