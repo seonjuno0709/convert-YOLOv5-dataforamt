@@ -7,6 +7,12 @@ annotation 된 정보는 bounding-box left, top, right, bottom, class_id를 나�
 
 (Data Set은 직접 ETRI에 신청해 받기)
 
+annotations : ETRI에서 제공하는 bbox info
+
+images : ETRI에서 제공하는 이미지
+
+labels : YOLOv5 data format으로 변경한 .txt 파일 저장
+
 **YOLOv5 Data Format :**
 
 YOLOv5 데이터 포맷은 class_id, x_center, y_center, width, height 순서로 나타냄
